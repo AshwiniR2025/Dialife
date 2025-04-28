@@ -1,0 +1,9 @@
+streamlit
+pandas
+scikit-learn
+google-generativeai
+python-dotenv
+imbalanced-learn
+PyMuPDF
+fpdf
+Pillow
